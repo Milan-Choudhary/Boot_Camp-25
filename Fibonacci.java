@@ -5,13 +5,14 @@ public class Fibonacci {
         Scanner input = new Scanner(System.in);
 
         int n = input.nextInt();
+        int[] dp = new int[n+1];
 
-        System.out.println(fib(n));
+        System.out.println(fib(n,dp));
 
         input.close();
     }
 
-    public static int fib(int n){
+    public static int fib(int n,int[] dp){
 
         if(n == 0){
             return 0;
@@ -20,6 +21,8 @@ public class Fibonacci {
             return 1;
         }
 
-        return fib(n-1)+fib(n-2);
+        dp[n] =  fib(n-1,dp) + fib(n-2,dp);
+
+        return dp[n];
     }
 }
