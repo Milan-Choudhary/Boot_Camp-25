@@ -27,7 +27,7 @@ public class MinimumWaysToTarget {
         }
 
         if(i == num.length || t < 0){
-            return Integer.MAX_VALUE;
+            return Integer.MAX_VALUE/2;
         }
 
         int take = 1 + compute(t-num[i], num, i);
