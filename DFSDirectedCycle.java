@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DirectedCycle {
+public class DFSDirectedCycle {
     public  static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int vertices = scanner.nextInt();

@@ -1,0 +1,50 @@
+Homework - 30Th December, 2025 
+
+*10 Recursion & Backtracking*
+
+	1.	N-Queens
+	2.	Sudoku Solver
+	3.	Combination Sum II
+	4.	Palindrome Partitioning
+	5.	Generate All Valid Parentheses
+	6.	Word Search II
+	7.	Restore IP Addresses
+	8.	Rat in a Maze (with multiple jumps / constraints)
+	9.	Permutations II (with duplicates)
+	10.	Expression Add Operators
+
+*10 DFS Questions*
+
+	1.	Number of Islands
+	2.	Max Area of Island
+	3.	Clone Graph
+	4.	Detect Cycle in Directed Graph
+	5.	Course Schedule (DFS approach)
+	6.	All Paths From Source to Target
+	7.	Path Sum III
+	8.	Diameter of Binary Tree
+	9.	Lowest Common Ancestor (Binary Tree)
+	10.	Surrounded Regions
+
+*BFS Questions*
+
+	1.	Shortest Path in Binary Matrix
+	2.	01 Matrix (Distance of Nearest Zero)
+	3.	Rotten Oranges
+	4.	Word Ladder
+	5.	Open the Lock
+	6.	Sliding Puzzle
+	7.	Snakes and Ladders
+	8.	Bus Routes
+	9.	Knight Minimum Moves
+	10.	Walls and Gates
+
+*Union-Find (DSU) Questions*
+
+These expose shallow understanding instantly.
+	1.	Redundant Connection
+	2.	Accounts Merge
+	3.	Number of Provinces
+	4.	Graph Valid Tree
+	5.	Number of Islands II (Dynamic DSU)
+    
