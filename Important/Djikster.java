@@ -1,4 +1,4 @@
-package FirstDay;
+package Important;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ public class Djikster {
     static class Pair{
         int node;
         int dist;
-
+ 
         Pair(int node,int dist){
             this.node = node;
             this.dist = dist;
